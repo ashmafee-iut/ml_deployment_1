@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+
+
+# to update all pip installs
